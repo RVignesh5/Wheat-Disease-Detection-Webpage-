@@ -1,8 +1,9 @@
 # Plant Disease Recognition Web App
 
 This web application uses Flask to provide a user interface for predicting plant diseases based on uploaded images. The underlying machine learning model is trained to classify images into different plant disease categories.
-# Output Demo Image
-[![Plant Disease Prediction](https://i.ibb.co/ByvxYgg/Plant-Disease-Prediction.png)](https://ibb.co/zXCYtSS)
+# Output
+[![Plant Disease Prediction](https://i.ibb.co/tDNTm4N/Plant-Disease-Prediction-1.png)](https://ibb.co/cQpSg1p)
+
 
 ## Getting Started
 
