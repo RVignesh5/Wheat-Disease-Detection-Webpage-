@@ -4,7 +4,8 @@ This web application uses Flask to provide a user interface for predicting plant
 # Output
 [![Plant Disease Prediction](https://i.ibb.co/tDNTm4N/Plant-Disease-Prediction-1.png)](https://ibb.co/cQpSg1p)
 
-
+# Dataset Link
+https://www.kaggle.com/datasets/olyadgetch/wheat-leaf-dataset
 ## Getting Started
 
 These instructions will help you set up and run the application on your local machine.
