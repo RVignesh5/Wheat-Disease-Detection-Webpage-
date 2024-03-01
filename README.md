@@ -34,10 +34,3 @@ If you have any questions or concerns, feel free to contact me:
 - the.r.vignesh@gmail.com
 - Any additional contact information  https://www.linkedin.com/in/ vigneshr-
 
-### Installing
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
